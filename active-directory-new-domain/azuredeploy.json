@@ -109,8 +109,7 @@
           }
         }
       }
-    },    
-    ,
+    },
     {
       "type": "Microsoft.Network/networkInterfaces",
       "name": "[variables('adNicName')]",
